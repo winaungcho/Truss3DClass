@@ -20,10 +20,10 @@ PHP Class for analysing 3 dimensional pin truss by using FEM
 
 ## Assumptions
 
-1 Structure behave as a linear system.
-2 Stress and strain inside of the nembers are small enough to be in the range of elastic portion.
-3 Displacements of joints/nodes are small enough sothat secondary effects will be negalected.
-4 Members are large enough to prevent bucklings.
+1. Structure behave as a linear system.
+2. Stress and strain inside of the nembers are small enough to be in the range of elastic portion.
+3. Displacements of joints/nodes are small enough sothat secondary effects will be negalected.
+4. Members are large enough to prevent bucklings.
 
 ## FEM model
 
