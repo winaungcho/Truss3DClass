@@ -30,9 +30,9 @@ PHP Class for analysing 3 dimensional pin truss by using FEM
 Each element/member connected to 2 joints/nodes.
 Joint has 3 degrees of freedom, ux, uy and uz.
 where
-ux is translation along x axis.
-uy is translation along x axis.
-uz is translation along x axis.
+1. ux is translation along x axis.
+2. uy is translation along y axis.
+3. uz is translation along z axis.
 
 Element move linearly respectively to the end nodes.
 Pin-jointed truss can be idealized as a Pintruss3D.
